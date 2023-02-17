@@ -2,7 +2,7 @@
 Diabetes Prediction with Logistic Regression
 ![Screenshot](1.png)
 
-## Business Problem
+## Problem
 
 We will develop a machine learning model that can predict whether people have diabetes when their characteristics are specified.
 
