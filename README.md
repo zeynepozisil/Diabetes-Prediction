@@ -10,4 +10,4 @@ The dataset is part of the large dataset held at the National Institutes of Diab
 
 It consists of 768 observations and 8 numerical independent variables. The target variable is specified as "outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
 
-- **Medium:** https://medium.com/@zeynepozisil/diabetes-prediction-dc04f43ea1a
+📌 **Medium:** https://medium.com/@zeynepozisil/diabetes-prediction-dc04f43ea1a
